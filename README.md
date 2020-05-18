@@ -1,5 +1,6 @@
 # Credit-Risk-Predictive-Analysis
 The objective of this project is to develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications.
+
 The dataset and additional information can be found here: https://community.fico.com/s/explainable-machinelearning-challenge
 
 Details:
